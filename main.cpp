@@ -224,7 +224,7 @@ int main(){
 		
 			setColor(14);
 			cout << "===========================================================\n";
-			cout << "o oponente ataca com tudo enquanto você bloqueia o impacto!" << endl;
+			cout << "o oponente ataca com tudo enquanto vocÃª bloqueia o impacto!" << endl;
 			cout << "===========================================================\n" << endl;
 			
 			setColor(10);
