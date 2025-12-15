@@ -35,7 +35,7 @@ O código usa `windows.h`, `system("cls")` e `system("pause")`, então foi pensa
 
 - **Vitória**: o oponente chega a 0 ou menos de vida.
 - **Derrota**: sua vida chega a 0 ou menos.
-- **Empate**: os dois chegam a 0 ou menos na mesma rodada.[web:160]
+- **Empate**: os dois chegam a 0 ou menos na mesma rodada.
 
 ## Observações
 
